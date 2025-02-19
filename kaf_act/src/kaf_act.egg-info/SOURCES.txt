@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+setup.cfg
+src/kaf_act/__init__.py
+src/kaf_act/kaf_act.py
+src/kaf_act.egg-info/PKG-INFO
+src/kaf_act.egg-info/SOURCES.txt
+src/kaf_act.egg-info/dependency_links.txt
+src/kaf_act.egg-info/requires.txt
+src/kaf_act.egg-info/top_level.txt
