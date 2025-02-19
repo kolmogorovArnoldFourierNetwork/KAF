@@ -18,11 +18,11 @@
 <img src="images/kaf.jpg" width="400"> <br>
 </p>
 
-## Introduction
+## 🤖 Introduction
 
 This repository contains the implementation of the Kolmogorov-Arnold Fourier Networks (KAF) for solving different tasks , including vision, audio, NLP , function fitting and PDE solving.If you want to simply insert KAF into your project, see https://github.com/kolmogorovArnoldFourierNetwork/kaf_act.
 
-## About KAF
+## 📖 About KAF
 Although Kolmogorov-Arnold based interpretable networks (KAN) havestrong theoretical expressiveness, they face significant parameter explosion and high-frequency feature capture challenges in high-dimensional tasks.
 To address this issue, we propose the KolmogorovArnold-Fourier Network (KAF), which effectively integrates trainable Random Fourier Features and a novel hybrid GELUFourier activation mechanism to balance parameter efficiency and spectral representation capabilities. 
 
