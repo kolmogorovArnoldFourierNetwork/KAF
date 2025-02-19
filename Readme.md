@@ -1,9 +1,5 @@
 <div align="center">
-  <table>
-    <tr>
-      <td><h1>Kolmogorov-Arnold Fourier Networks</h1></td>
-    </tr>
-  </table>
+<h1>Kolmogorov-Arnold Fourier Networks</h1>
 </div>
 
 <p align="center">
